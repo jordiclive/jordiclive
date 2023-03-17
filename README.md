@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**jordiclive/jordiclive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍💻 I'm currently Deep Learning Engineer at **[Chattermill](https://chattermill.com/)**, previously Data Scientist **Funding Circle**
 
-Here are some ideas to get you started:
+- 🌍 I also carry out Machine Learning Research for **[LAION](https://laion.ai/)** (Stability AI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I previously did my Masters in Machine Learning & A.I at **Imperial College London** carrying out work in natural language generation.
+
+- 📝 I’m an **active contributor** of machine learning libraries such as **Hugging Face and Gem-benchmark**
+
+- 💬 I sometimes give talks for the [NLP study group](https://www.meetup.com/advanced-natural-language-processing-nlp-study-group/), the most popular NLP community on meetup.com
+
+- 🔭 I’m currently working on **text summarization** and the open-source chat agent [OpenAssistant](https://github.com/LAION-AI/Open-Assistant).
+
+- 📫 How to reach me: jordan.clive19@imperial.ac.uk or message me [on LinkedIn](https://github.com/jordiclive)
