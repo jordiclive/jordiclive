@@ -6,7 +6,7 @@
 
 - 🎓 I previously did my Masters in Machine Learning & A.I at **Imperial College London** carrying out work in natural language generation.
 
-- 📝 I’m an **active contributor** of machine learning libraries such as **Hugging Face and Gem-benchmark**
+- 📝 I’m an **active contributor** of machine learning libraries such as **Hugging Face Transformers** and **Gem-benchmark**
 
 - 💬 I sometimes give talks for the [NLP study group](https://www.meetup.com/advanced-natural-language-processing-nlp-study-group/), the most popular NLP community on meetup.com
 
