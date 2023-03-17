@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-- 🧑‍💻 I'm currently Deep Learning Engineer at **[Chattermill](https://chattermill.com/)**, previously Data Scientist **Funding Circle**
+- 🧑‍💻 I'm currently Deep Learning Engineer at **[Chattermill](https://chattermill.com/)**, previously Data Scientist at **Funding Circle**
 
 - 🌍 I also carry out Machine Learning Research for **[LAION](https://laion.ai/)** (Stability AI)
 
