@@ -2,7 +2,7 @@
 
 - 🧑‍💻 I'm currently the Deep Learning Engineer at **[Chattermill](https://chattermill.com/)**, previously a Data Scientist at **Funding Circle**
 
-- 🌍 I also carry out Machine Learning Research for **[LAION](https://laion.ai/)** (Stability AI) on the Ezra-1 UltraCluster, previously worked for [BigScience](https://github.com/bigscience-workshop) and BLOOM evaluation
+- 🌍 I also carry out Machine Learning Research for **[LAION](https://laion.ai/)** (Stability AI) on the Ezra-1 UltraCluster, previously did work for [BigScience](https://github.com/bigscience-workshop) and the BLOOM evaluation.
 
 - 🎓 I previously did my Masters in Machine Learning & A.I at **Imperial College London** carrying out work in natural language generation
 
