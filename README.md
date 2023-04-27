@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-- 🧑‍💻 I'm currently the Deep Learning Engineer at **[Chattermill](https://chattermill.com/)**, previously a Data Scientist at **Funding Circle**
+- 🧑‍💻 I'm currently the Lead Deep Learning Engineer at **[Chattermill](https://chattermill.com/)**, previously a Data Scientist at **Funding Circle**
 
 - 🌍 I also carry out Machine Learning Research for **[LAION](https://laion.ai/)** (Stability AI) on the Ezra-1 UltraCluster, previously did work for [BigScience](https://github.com/bigscience-workshop) and the BLOOM evaluation
 
