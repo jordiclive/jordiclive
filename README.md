@@ -10,6 +10,6 @@
 
 - 💬 I sometimes give talks for the [NLP study group](https://www.meetup.com/advanced-natural-language-processing-nlp-study-group/), the most popular NLP community on meetup.com
 
-- 🔭 I’m currently working on **text summarization** and the open-source chat agent [OpenAssistant](https://github.com/LAION-AI/Open-Assistant)
+- 🔭 I’m currently working on **text summarization** and the open-source chat agent [OpenAssistant]([https://github.com/LAION-AI/Open-Assistant](https://open-assistant.io/team)
 
 - 📫 How to reach me: jordan.clive19@imperial.ac.uk or message me [on LinkedIn](https://github.com/jordiclive)
