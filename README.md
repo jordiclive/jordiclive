@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-- 🧑‍💻 I'm currently a Research Engineer, previously a Lead Deep Learning Engineer at **[Chattermill](https://chattermill.com/)**
+- 🧑‍💻 I'm currently a Lead Deep Learning Engineer at **[Chattermill](https://chattermill.com/)**, previously Research Engineer at Ontocord.ai
 
 - 🌍 I also carry out Machine Learning Research for **[LAION](https://laion.ai/)** (Stability AI) on the Ezra-1 UltraCluster, LUMI and JUWELS supercomputers; previously did work for [BigScience](https://github.com/bigscience-workshop) and the BLOOM evaluation
 
