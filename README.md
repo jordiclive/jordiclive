@@ -6,7 +6,7 @@
 
 - 📝 I'm an **active contributor** to machine learning libraries such as **Hugging Face Transformers** and **GEM-benchmark**.
 
-- 🔭 I’m currently focusing on **Mixture of Experts**, semantic search, embedding-based models, and Evaluation ([MTEB](https://github.com/embeddings-benchmark/mteb)), and Metadata ([Metadata](https://github.com/bigscience-workshop/metadata)).
+- 🔭 I’m currently focusing on **Mixture of Experts**, semantic search (embedding-based models and their Evaluation ([MTEB](https://github.com/embeddings-benchmark/mteb)), and Metadata ([Metadata](https://github.com/bigscience-workshop/metadata)).
 
 - 🎓 I earned my Masters in Machine Learning & A.I at **Imperial College London**, specializing in natural language generation and collaborating with Google DeepMind.
 
