@@ -1,15 +1,10 @@
 <h1 align="center">Hi there 👋</h1>
 
-- 🧑‍💻 I'm currently a Lead Deep Learning Engineer at **[Chattermill](https://chattermill.com/)**, previously Research Engineer at Ontocord.ai
+- 🧑‍💻 I'm currently a Lead Deep Learning Scientist at **[Chattermill](https://chattermill.com/)**, previously a Research Engineer at Ontocord.ai.
+- 🌍 I've recently conducted Machine Learning Research for **[LAION](https://laion.ai/)** (Stability AI) on the Ezra-1 UltraCluster, LUMI, and JUWELS supercomputers; previously worked for [BigScience](https://github.com/bigscience-workshop) (the BLOOM evaluation), and the open-source chat agent [OpenAssistant](https://open-assistant.io/team).
+- 📝 I'm an **active contributor** to machine learning libraries such as **Hugging Face Transformers** and **GEM-benchmark**.
+- 🔭 I’m currently focusing on **Mixture of Experts**, semantic search, embedding-based models, and Evaluation ([MTEB](https://github.com/embeddings-benchmark/mteb)), and Metadata ([Metadata](https://github.com/bigscience-workshop/metadata)).
+- 🎓 I earned my Masters in Machine Learning & A.I at **Imperial College London**, specializing in natural language generation.
+- 💬 I occasionally speak at the [NLP study group](https://www.meetup.com/advanced-natural-language-processing-nlp-study-group/), the most popular NLP community on Meetup.com.
+- 📫 Reach me at: jordan@jordiclive.com or message me [on LinkedIn](https://www.linkedin.com/in/jordiclive/).
 
-- 🌍 I also carry out Machine Learning Research for **[LAION](https://laion.ai/)** (Stability AI) on the Ezra-1 UltraCluster, LUMI and JUWELS supercomputers; previously did work for [BigScience](https://github.com/bigscience-workshop) and the BLOOM evaluation
-
-- 🎓 I previously did my Masters in Machine Learning & A.I at **Imperial College London** carrying out work in natural language generation
-
-- 📝 I’m an **active contributor** of machine learning libraries such as **Hugging Face Transformers** and **Gem-benchmark**
-
-- 💬 I sometimes give talks for the [NLP study group](https://www.meetup.com/advanced-natural-language-processing-nlp-study-group/), the most popular NLP community on meetup.com
-
-- 🔭 I’m currently working on **Mixture of experts** and the open-source chat agent [OpenAssistant](https://open-assistant.io/team)
-
-- 📫 How to reach me: jordan.clive19@imperial.ac.uk or message me [on LinkedIn](https://github.com/jordiclive)
